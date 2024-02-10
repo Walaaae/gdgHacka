@@ -1,4 +1,4 @@
-# Task Manager APP
+#The Team and Project Management  APP
 
 The Team and Project Management Tool is an app that allows users to control teams, users, hackathons, presentations, and submissions. It provides a centralized platform for managing these aspects of projects efficiently and effectively.
 
