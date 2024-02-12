@@ -16,7 +16,7 @@ These instructions will help you get a copy of the The Team and Project Manager 
 
 1. Clone the repository:
 
-  `git clone https://github.com/Younesfdj/task-manager-app.git`
+  `git clone  https://github.com/Walaaae/gdgHacka.git`
 
 2. Install the dependencies:
 
