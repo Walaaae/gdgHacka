@@ -29,10 +29,6 @@ These instructions will help you get a copy of the The Team and Project Manager 
 
   `npm start` 
 
-## API Endpoints
-
-The following API endpoints are available :
-
 You must be authenticated to read, create, update, or delete a model. Authentication is done via JWT. To test the api sepratly you should pass the token in the `Authorization` header as a Bearer token.
 
 ## Built With
